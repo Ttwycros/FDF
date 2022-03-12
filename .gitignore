@@ -4,6 +4,7 @@ workspace.code-workspace
 /test_maps
 .DS_Store
 /.vscode
+fdf
 
 # Object files
 *.o
